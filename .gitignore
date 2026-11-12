@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+~$*
+.venv/
+data/consumer_survey.csv
+data/survey_questionnaire.docx
